@@ -1,0 +1,8 @@
+torch
+torchvision
+numpy
+pyyaml
+tqdm
+pillow
+pytest
+kaggle
